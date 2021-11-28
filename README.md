@@ -82,9 +82,12 @@ This editor only offers Levels 1 to 3, and some features are disabled at the mom
 # Editor Tutorial on YouTube :
 [![QEditor](https://img.youtube.com/vi/b53JAIG1qZQ/0.jpg)](https://www.youtube.com/watch?v=b53JAIG1qZQ)
 
+## Version Update:
+**Editor version 0.4 Latest.**
+
 If you encounter any issues with Editor just contact me at</br>
 
-Discord Id: _igi_research_devs#3954_ and Join [Discord server](https://discord.gg/bfqYXqkf)</br>
+Discord Id: _igi_research_devs#3954_ and Join [Discord server](https://discord.gg/AyVDW7kE6V)</br>
 **Email:** igiproz.hm@gmail.com</br>
 Follow Project: [GitHub](https://github.com/IGI-Research-Devs/)</br>
 Subscribe Channel: [YouTube](https://www.youtube.com/channel/UChGryl0a0dii81NfDZ12LwA/)</br>
