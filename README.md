@@ -86,3 +86,5 @@ If you encounter any issues with Editor just contact me at</br>
 
 Discord Id: _igi_research_devs#3954_ and Join [Discord server](https://discord.gg/bfqYXqkf)</br>
 **Email:** igiproz.hm@gmail.com</br>
+Follow Project: [GitHub](https://github.com/IGI-Research-Devs/)</br>
+Subscribe Channel: [YouTube](https://www.youtube.com/channel/UChGryl0a0dii81NfDZ12LwA/)</br>
