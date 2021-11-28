@@ -3,25 +3,25 @@ v 0.1 BETA:
 * Initial version.
 
 v 0.2 BETA:
-* Added Option to **Add Custom A.I** into level.
-* Added New **Mission Editor** section
-* Added **Support links**.
-* Added **Offline mode** requires no _internet connection_. 
+* Added Option to Add Custom A.I into level.
+* Added New Mission Editor section
+* Added Support links.
+* Added Offline mode requires no internet connection. 
 
 v 0.3 BETA:
 * Added New Object Editor/Graph Editor.
-* Updated **Human Editor** - Team Id, View Cam.
-* Updated **Weapon Editor** - Modded weapons section.
-* Updated **Position Editor** - Reset human position.
-* Updated **Misc Editor** - Set Frames,Music update,Graphics,Config editor and more.
+* Updated Human Editor - Team Id, View Cam.
+* Updated Weapon Editor - Modded weapons section.
+* Updated Position Editor - Reset human position.
+* Updated Misc Editor - Set Frames,Music update,Graphics,Config editor and more.
 * Added New Editor/Play Mode to edit levels/play levels separately now.
-* Added **Setup installation** for editor.
+* Added Setup installation for editor.
 
 v 0.4 BETA:
-* Updated Graph Editor - **Add/Remove Nodes/Links**.
+* Updated Graph Editor - Add/Remove Nodes/Links.
 * Updated Human/Position Editor.
-* Fixed **Misc Editor**.
-* Improved **Logs** and **Exceptions**.
-* Added new **Auto-Update** feature.
-* Added elevation _(Run As)_ admin feature.
-* Internals **DLL Auto-Attach/Detach** feature.
+* Fixed Misc Editor.
+* Improved Logs and Exceptions.
+* Added new Auto-Update feature.
+* Added elevation (Run As) admin feature.
+* Internals DLL Auto-Attach/Detach feature.
