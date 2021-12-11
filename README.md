@@ -20,7 +20,8 @@ This section supports **[LIVE EDITOR]**.
 This section supports **[LIVE EDITOR]**.
 
 ### A.I Editor:
-**Weapon Editor**: Lets you to `Add` or `Remove` `Friendly/Enemy` A.I into level with various properties like _invincible_,_advance view_,_guard generator_ etc.</br>
+**A.I Editor**: Lets you to `Add` or `Remove` `Friendly/Enemy` A.I into level with various properties like _invincible_,_advance view_,_guard generator_ etc.</br>
+**JSON Editor**: Lets you to `Save` or `Load` A.I to `JSON` file permanently for later use, Can edit/share json files etc.</br>
 You can select maximum no. of spawns and select `A.I Count` to 5 example to add 5 `A.I` into level.
 
 ### Mission Editor
@@ -80,10 +81,10 @@ This editor only offers Levels 1 to 3, and some features are disabled at the mom
 * **Compiler** and **Assembler** with _Parser_ output like **.qsc** to **.qas** to **.qvm**.
 
 # Editor Tutorial on YouTube :
-[![QEditor](https://img.youtube.com/vi/b53JAIG1qZQ/0.jpg)](https://www.youtube.com/watch?v=b53JAIG1qZQ)
+[![QEditor](https://img.youtube.com/vi/zH0a8Ma_tQ8.jpg)](https://www.youtube.com/watch?v=zH0a8Ma_tQ8)
 
 ## Version Update:
-**Editor version 0.4 Latest.**
+**Editor version 0.4.0.4 Latest.**
 
 If you encounter any issues with Editor just contact me at</br>
 
