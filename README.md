@@ -103,8 +103,7 @@ This editor only offers Levels 1 to 3, and some features are disabled at the mom
 * **Compiler** and **Assembler** with _Parser_ output like **.qsc** to **.qas** to **.qvm**.
 
 # Editor Tutorial on YouTube :
-![QEditor](https://img.youtube.com/vi/zH0a8Ma_tQ8/0.jpg)
-
+[![QEditor](https://img.youtube.com/vi/zH0a8Ma_tQ8/0.jpg)](https://www.youtube.com/watch?v=zH0a8Ma_tQ8)
 ## Version Update:
 **Editor version 0.4.0.4 Latest.**
 
