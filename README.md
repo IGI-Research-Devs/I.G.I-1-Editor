@@ -7,31 +7,52 @@ and lets you upload/download your missions to server and share with friends.
 ### Level Editor:
 **Level Editor**: Lets you to `Add` or `Remove` Building/Objects in level at any position you want select list of objects to add in level and add then in `Edit mode`.</br>
 
+![](https://i.ibb.co/qJrt9fx/IGI-Editor-Main.png)
+
 ### Object Editor
 **Object Editor**: Lets you to `Remove` or `Restore` objects in level `permanently` or `temporary` depends which mode is selected `Live` or `Normal` mode.</br>
 This section supports **[LIVE EDITOR]**.
 
+![](https://i.ibb.co/yqjspnJ/IGI-Editor-Object-Ed.png)
+
 ### Human Editor:
 **Human Editor**: Lets you to Update human Speed/Jump,Health Scale peek and Team Id/Human Camera (1st Person,3rd person).</br>
 This section supports **[LIVE EDITOR]**.
+![](https://i.ibb.co/hZxhghk/IGI-Editor-Human-Ed.png)
 
 ### Weapon Editor:
 **Weapon Editor**: Lets you to `Add` or `Remove` new weapons in level `permanently` or `temporary` depends which mode is selected `Live` or `Normal` mode.</br>
 This section supports **[LIVE EDITOR]**.
+![](https://i.ibb.co/269CSkz/IGI-Editor-Weapon-Ed.png)
 
 ### A.I Editor:
 **A.I Editor**: Lets you to `Add` or `Remove` `Friendly/Enemy` A.I into level with various properties like _invincible_,_advance view_,_guard generator_ etc.</br>
 **JSON Editor**: Lets you to `Save` or `Load` A.I to `JSON` file permanently for later use, Can edit/share json files etc.</br>
 You can select maximum no. of spawns and select `A.I Count` to 5 example to add 5 `A.I` into level.
 
+![](https://i.ibb.co/RPNf61h/IGI-Editor-AI-Main-Ed.png)
+
+### A.I JSON Editor.
+![](https://i.ibb.co/GMY6fmz/IGI-Editor-AI-JSONEd.png)
+
+
 ### Mission Editor
 **Mission Editor**: Lets you to `Add` or `Remove` `Missions` into level after you design your own custom level enter _Name_ and _Description_ and **Save** your Mission</br>
 You can also **Upload** or **Download** new missions from _Server_ and load into your game and play them directly..</br>
 This section supports **[ONLINE MODE]**.
+![](https://i.ibb.co/xG0QMnC/IGI-Editor-Mission-Ed.png)
 
 ### Graph Editor: **_Available in Full version_**.</br> 
 **Graph editor**: Lets you see visualization of Graph and nodes information, You can `teleport` or `Auto traverse` to Graph or Nodes in _real time_ and see where graph or nodes are in selected level..</br>
 This section supports **[LIVE EDITOR]**.</br>
+![](https://i.ibb.co/17B96Z5/IGI-Editor-Graph-Ed.png)
+
+### Graph & Links - Level 5. ( IGI 1 Editor).
+![](https://i.ibb.co/px7fWfS/Node-Links-L5-Area2.png)
+
+### Graph & Links - Level 1. ( IGI 2 Editor).
+![](https://i.ibb.co/gR1vZSM/IGI2-Graph-Nodes.png)
+
 
 ### Profile Editor: **_Available in Full version_**.</br> 
 **Profile editor**: Lets you manage your `Game Profiles` you can update _Name,Level,Mission_ details or  `Add` or `Remove` new player profile for your player.</br>
@@ -57,6 +78,7 @@ This section supports **[LIVE EDITOR]**.</br>
 
 ### Misc Editor:
 **Misc editor**: Lets you to `Reset/Remove` levels back to normal and `Remove Cutscenes`, Export level data,Set Game Frames `FPS` Update Game Music and more.
+![](https://i.ibb.co/GT0kbtR/IGI-Editor-Misc-Ed.png)
 
 ### Editor features.
 Live Editor is real time editor which can **edit/add/remove** objects weapons in real time without need of _Restart_ the level.</br> 
@@ -81,7 +103,7 @@ This editor only offers Levels 1 to 3, and some features are disabled at the mom
 * **Compiler** and **Assembler** with _Parser_ output like **.qsc** to **.qas** to **.qvm**.
 
 # Editor Tutorial on YouTube :
-[![QEditor](https://img.youtube.com/vi/zH0a8Ma_tQ8.jpg)](https://www.youtube.com/watch?v=zH0a8Ma_tQ8)
+![QEditor](https://img.youtube.com/vi/zH0a8Ma_tQ8/0.jpg)
 
 ## Version Update:
 **Editor version 0.4.0.4 Latest.**
